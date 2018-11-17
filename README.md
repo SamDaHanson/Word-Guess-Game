@@ -1,2 +1,3 @@
-# simpleHangman
-Simple hangman game
+# Word-Guess-Game
+
+Simple hangman-style game
